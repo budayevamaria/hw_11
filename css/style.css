@@ -43,15 +43,6 @@ button {
   background-color: #fff;
 }
 
-.btn-color {
-  background-color: #fcf6d1;
-}
-
-/* .shape {
-  width: 250px;
-  height: 250px;
-} */
-
 .circle {
   background-color: #fff;
   border: 1px solid #000;
@@ -78,3 +69,4 @@ button {
   text-align: center;
   color: red;
 }
+
